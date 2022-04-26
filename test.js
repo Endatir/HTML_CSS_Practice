@@ -1,4 +1,0 @@
-function onPressButton (event) {
-    //dsfsdfsdfs
-
-}
